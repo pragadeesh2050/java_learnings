@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35b3ca73-1d89-43ad-bcfe-962662652caf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aIQe1DCiw9xsymjEOBFIZBUlLV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/luv2code/springdemo/rest" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mydevs\spring-rest-demo\src\main\java\com\luv2code\springdemo\rest" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="tomcat" type="com.poratu.idea.plugins.tomcat" factoryName="SMART_TOMCAT_FACTORY" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="adminPort" value="8005" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="contextPath" value="/spring-rest-demo" />
+      <option name="customContext" value="" />
+      <option name="docBase" value="C:\mydevs\spring-rest-demo\src\main\webapp" />
+      <option name="envOptions">
+        <map />
+      </option>
+      <option name="moduleName" />
+      <option name="passParentEnvironmentVariables" value="true" />
+      <option name="port" value="8080" />
+      <option name="tomcatInfo">
+        <TomcatInfo>
+          <option name="name" value="Apache Tomcat 9.0.33" />
+          <option name="number" value="0" />
+          <option name="path" value="C:\mydevs\apache-tomcat-9.0.33" />
+          <option name="version" value="9.0.33.0" />
+        </TomcatInfo>
+      </option>
+      <option name="vmOptions" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35b3ca73-1d89-43ad-bcfe-962662652caf" name="Default Changelist" comment="" />
+      <created>1586420720077</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586420720077</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586422366192">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="414" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586422366192" />
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser" timestamp="1586425308816">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="234" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586425308816" />
+    <state x="694" y="450" key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog" timestamp="1586421347702">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="694" y="450" key="#com.intellij.refactoring.turnRefsToSuper.TurnRefsToSuperDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586421347702" />
+    <state x="740" y="283" key="FileChooserDialogImpl" timestamp="1586422363039">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="740" y="283" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586422363039" />
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom" timestamp="1586425382607">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586425382607" />
+    <state width="1877" height="285" key="GridCell.Tab.0.center" timestamp="1586425382607">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586425382607" />
+    <state width="1877" height="285" key="GridCell.Tab.0.left" timestamp="1586425382607">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586425382607" />
+    <state width="1877" height="285" key="GridCell.Tab.0.right" timestamp="1586425382607">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="285" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586425382607" />
+    <state x="490" y="183" key="Maven.ArtifactSearchDialog" timestamp="1586424168457">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="490" y="183" key="Maven.ArtifactSearchDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586424168457" />
+    <state x="463" y="170" key="SettingsEditor" timestamp="1586421061052">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="463" y="170" key="SettingsEditor/0.0.1920.1050@0.0.1920.1050" timestamp="1586421061052" />
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1586420725030">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586420725030" />
+  </component>
+</project>

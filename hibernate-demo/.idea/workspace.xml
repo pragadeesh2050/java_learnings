@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="610e3a58-88f9-4ce3-9cdc-a0a4fd534201" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1aFuZ9SCUaLhuLw814ZL8R8TbBx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/lib/txw2-2.3.1.jar!/" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.luv2code.jdbc" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\mydevs\hibernate-demo\lib" />
+      <recent name="C:\mydevs\hibernate-demo\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.TestOneToMany">
+    <configuration name="TestJdbc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.jdbc.TestJdbc" />
+      <module name="hibernate-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestJdbcDelete" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.jdbc.TestJdbcDelete" />
+      <module name="hibernate-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestOneToMany" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.luv2code.jdbc.TestOneToMany" />
+      <module name="hibernate-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.luv2code.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.TestOneToMany" />
+        <item itemvalue="Application.TestJdbcDelete" />
+        <item itemvalue="Application.TestJdbc" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="610e3a58-88f9-4ce3-9cdc-a0a4fd534201" name="Default Changelist" comment="" />
+      <created>1586343715884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586343715884</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="552" y="186" key="#Project_Structure" timestamp="1586507807604">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="552" y="186" key="#Project_Structure/0.0.1920.1050@0.0.1920.1050" timestamp="1586507807604" />
+    <state x="765" y="218" key="#com.intellij.ide.util.MemberChooser" timestamp="1586600395982">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="765" y="218" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1050@0.0.1920.1050" timestamp="1586600395982" />
+    <state x="664" y="201" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog" timestamp="1586524099798">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="664" y="201" key="#com.intellij.refactoring.encapsulateFields.EncalpsulateFieldsDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586524099798" />
+    <state width="444" height="466" key="DebuggerActiveHint" timestamp="1586604569846">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="444" height="466" key="DebuggerActiveHint/0.0.1920.1050@0.0.1920.1050" timestamp="1586604569846" />
+    <state x="666" y="269" key="FileChooserDialogImpl" timestamp="1586507802584">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="666" y="269" key="FileChooserDialogImpl/0.0.1920.1050@0.0.1920.1050" timestamp="1586507802584" />
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom" timestamp="1586612187984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586612187984" />
+    <state width="1877" height="352" key="GridCell.Tab.0.center" timestamp="1586612187984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586612187984" />
+    <state width="1877" height="352" key="GridCell.Tab.0.left" timestamp="1586612187984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586612187984" />
+    <state width="1877" height="352" key="GridCell.Tab.0.right" timestamp="1586612187984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.0.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586612187984" />
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom" timestamp="1586612187984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.bottom/0.0.1920.1050@0.0.1920.1050" timestamp="1586612187984" />
+    <state width="1877" height="352" key="GridCell.Tab.1.center" timestamp="1586612187984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.center/0.0.1920.1050@0.0.1920.1050" timestamp="1586612187984" />
+    <state width="1877" height="352" key="GridCell.Tab.1.left" timestamp="1586612187984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.left/0.0.1920.1050@0.0.1920.1050" timestamp="1586612187984" />
+    <state width="1877" height="352" key="GridCell.Tab.1.right" timestamp="1586612187984">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state width="1877" height="352" key="GridCell.Tab.1.right/0.0.1920.1050@0.0.1920.1050" timestamp="1586612187984" />
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog" timestamp="1586598382351">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="668" y="352" key="com.intellij.ide.util.TipDialog/0.0.1920.1050@0.0.1920.1050" timestamp="1586598382351" />
+    <state x="342" y="151" key="new project wizard" timestamp="1586350588677">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="342" y="151" key="new project wizard/0.0.1920.1050@0.0.1920.1050" timestamp="1586350588677" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/luv2code/jdbc/TestJdbc.java</url>
+          <line>52</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/luv2code/jdbc/TestOneToMany.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
